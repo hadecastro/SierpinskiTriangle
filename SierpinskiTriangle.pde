@@ -21,7 +21,6 @@ public void draw()
 	sierpinski(mouseX - 200, mouseY + 150, 400);
 	fill(0, 30);
 	rect(0, 0, 2000, 2000);
-	System.out.println(limit);
 }
 public void mouseClicked()//optional
 {
